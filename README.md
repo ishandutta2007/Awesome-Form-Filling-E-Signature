@@ -31,6 +31,7 @@
   - [📦 Project Deep-Dives](#-project-deep-dives)
 - [🔐 Legal &amp; Cryptographic Architecture Guide](#-legal--cryptographic-architecture-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
@@ -269,6 +270,19 @@ We welcome additions, updates, and architectural tips from the community!
    - Specific pricing tiers and explicit free trial / free tier terms (no generic placeholders)
    - Accurate license and star count badge (linked to stargazers)
 4. **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring this ecosystem! If you find this directory valuable for your document automation, e-signature implementations, or self-hosted workflows, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to increase visibility and help others discover it.
+- 🍴 **Fork** and contribute new tools, updates, and benchmarks.
+- 📢 **Share** with your engineering, legal operations, IT, and security teams.
+- ☕ **Buy Me a Coffee**: Support ongoing open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for supporting open-source software and open document standards! 🙏
 
 ---
 
