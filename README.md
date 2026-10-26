@@ -126,33 +126,33 @@ Below are the most prominent open-source repositories for electronic signatures,
 
 ### 🏆 Open-Source Rankings (Sorted by Stars)
 
-| Rank | Repository & Star Badge | License | Primary Tech Stack | Core Functionality |
+| Rank | Repository & Stars_Badge | License | Primary Tech Stack | Core Functionality |
 |:---:|:---|:---:|:---:|:---|
-| 1 | **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) | `GPL-3.0` | Java / Spring Boot / HTML | Swiss-army knife local PDF suite: interactive form filling, digital certificate signing, visual stamps, redaction |
-| 2 | **[DocuSeal](https://github.com/docusealco/docuseal)** [![GitHub stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers) | `AGPL-3.0` | Ruby / Rails / Vue.js | Open-source DocuSign alternative: WYSIWYG PDF form builder, AI field detection, multi-signer workflows, mobile-optimized |
-| 3 | **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | `AGPL-3.0` | TypeScript / Next.js / Prisma | The modern signing platform: PKCS#12 cryptographic PDF signing, RFC 3161 timestamps, sequential routing, custom branding |
-| 4 | **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | `AGPL-3.0` | TypeScript / Next.js / Tailwind | Privacy-first modular form builder & survey suite with dynamic field qualification and self-hostable backend |
-| 5 | **[OpenSign](https://github.com/OpenSignLabs/OpenSign)** [![GitHub stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers) | `AGPL-3.0` | Node.js / React / MongoDB | Free & open-source DocuSign alternative: template management, guest email OTP verification, audit trail certificates |
-| 6 | **[Form.io](https://github.com/formio/formio)** [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers) | `MIT` | JavaScript / Node.js | Enterprise combined drag-and-drop form builder, PDF form renderer, and complete RESTful JSON API schema server |
-| 7 | **[CommonForms](https://github.com/jbarrow/commonforms)** [![GitHub stars](https://img.shields.io/github/stars/jbarrow/commonforms?style=social&color=white)](https://github.com/jbarrow/commonforms/stargazers) | `Apache-2.0` | Python / PyTorch | Open-source computer vision models and dataset to automatically detect and segment fillable form fields in PDFs |
-| 8 | **[PyPDFForm](https://github.com/chinapandaman/PyPDFForm)** [![GitHub stars](https://img.shields.io/github/stars/chinapandaman/PyPDFForm?style=social&color=white)](https://github.com/chinapandaman/PyPDFForm/stargazers) | `MIT` | Python | Lightweight Python library and CLI to inspect, fill, draw, and stamp fillable PDF forms programmatically |
-| 9 | **[Digital Signature Service (DSS)](https://github.com/esig/dss)** [![GitHub stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers) | `LGPL-2.1` | Java | Official European Commission library for creating, extending, and validating eIDAS-compliant PAdES, CAdES, and XAdES |
-| 10 | **[node-signpdf](https://github.com/vbuch/node-signpdf)** [![GitHub stars](https://img.shields.io/github/stars/vbuch/node-signpdf?style=social&color=white)](https://github.com/vbuch/node-signpdf/stargazers) | `MIT` | JavaScript / Node.js | Simple, low-level Node.js module to cryptographically sign PDFs with PKCS#7 / X.509 digital certificate byte ranges |
-| 11 | **[LibreSign](https://github.com/LibreSign/libresign)** [![GitHub stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers) | `AGPL-3.0` | PHP / Vue.js / Nextcloud | Nextcloud-integrated digital signature suite; recognized Digital Public Good supporting SES, AES, and QES workflows |
-| 12 | **[pyHanko](https://github.com/MatthiasValvekens/pyHanko)** [![GitHub stars](https://img.shields.io/github/stars/MatthiasValvekens/pyHanko?style=social&color=white)](https://github.com/MatthiasValvekens/pyHanko/stargazers) | `MIT` | Python | Standards-compliant Python toolkit for signing, timestamping, and verifying PDF files (PAdES, CMS, PKCS#11 HSM) |
-| 13 | **[SignServer CE](https://github.com/Keyfactor/signserver-ce)** [![GitHub stars](https://img.shields.io/github/stars/Keyfactor/signserver-ce?style=social&color=white)](https://github.com/Keyfactor/signserver-ce/stargazers) | `LGPL-2.1` | Java / Jakarta EE | Enterprise PKI server engine for automated, high-volume server-side document signing, PDF certification, and timestamps |
+| 1 | **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) | `GPL-3.0` | Java / Spring Boot / HTML | Swiss-army knife local PDF suite: interactive form filling, digital certificate signing, visual stamps, redaction |
+| 2 | **[DocuSeal](https://github.com/docusealco/docuseal)** [![GitHub_Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers) | `AGPL-3.0` | Ruby / Rails / Vue.js | Open-source DocuSign alternative: WYSIWYG PDF form builder, AI field detection, multi-signer workflows, mobile-optimized |
+| 3 | **[Documenso](https://github.com/documenso/documenso)** [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | `AGPL-3.0` | TypeScript / Next.js / Prisma | The modern signing platform: PKCS#12 cryptographic PDF signing, RFC 3161 timestamps, sequential routing, custom branding |
+| 4 | **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | `AGPL-3.0` | TypeScript / Next.js / Tailwind | Privacy-first modular form builder & survey suite with dynamic field qualification and self-hostable backend |
+| 5 | **[OpenSign](https://github.com/OpenSignLabs/OpenSign)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers) | `AGPL-3.0` | Node.js / React / MongoDB | Free & open-source DocuSign alternative: template management, guest email OTP verification, audit trail certificates |
+| 6 | **[Form.io](https://github.com/formio/formio)** [![GitHub_Stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers) | `MIT` | JavaScript / Node.js | Enterprise combined drag-and-drop form builder, PDF form renderer, and complete RESTful JSON API schema server |
+| 7 | **[CommonForms](https://github.com/jbarrow/commonforms)** [![GitHub_Stars](https://img.shields.io/github/stars/jbarrow/commonforms?style=social&color=white)](https://github.com/jbarrow/commonforms/stargazers) | `Apache-2.0` | Python / PyTorch | Open-source computer vision models and dataset to automatically detect and segment fillable form fields in PDFs |
+| 8 | **[PyPDFForm](https://github.com/chinapandaman/PyPDFForm)** [![GitHub_Stars](https://img.shields.io/github/stars/chinapandaman/PyPDFForm?style=social&color=white)](https://github.com/chinapandaman/PyPDFForm/stargazers) | `MIT` | Python | Lightweight Python library and CLI to inspect, fill, draw, and stamp fillable PDF forms programmatically |
+| 9 | **[Digital Signature Service (DSS)](https://github.com/esig/dss)** [![GitHub_Stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers) | `LGPL-2.1` | Java | Official European Commission library for creating, extending, and validating eIDAS-compliant PAdES, CAdES, and XAdES |
+| 10 | **[node-signpdf](https://github.com/vbuch/node-signpdf)** [![GitHub_Stars](https://img.shields.io/github/stars/vbuch/node-signpdf?style=social&color=white)](https://github.com/vbuch/node-signpdf/stargazers) | `MIT` | JavaScript / Node.js | Simple, low-level Node.js module to cryptographically sign PDFs with PKCS#7 / X.509 digital certificate byte ranges |
+| 11 | **[LibreSign](https://github.com/LibreSign/libresign)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers) | `AGPL-3.0` | PHP / Vue.js / Nextcloud | Nextcloud-integrated digital signature suite; recognized Digital Public Good supporting SES, AES, and QES workflows |
+| 12 | **[pyHanko](https://github.com/MatthiasValvekens/pyHanko)** [![GitHub_Stars](https://img.shields.io/github/stars/MatthiasValvekens/pyHanko?style=social&color=white)](https://github.com/MatthiasValvekens/pyHanko/stargazers) | `MIT` | Python | Standards-compliant Python toolkit for signing, timestamping, and verifying PDF files (PAdES, CMS, PKCS#11 HSM) |
+| 13 | **[SignServer CE](https://github.com/Keyfactor/signserver-ce)** [![GitHub_Stars](https://img.shields.io/github/stars/Keyfactor/signserver-ce?style=social&color=white)](https://github.com/Keyfactor/signserver-ce/stargazers) | `LGPL-2.1` | Java / Jakarta EE | Enterprise PKI server engine for automated, high-volume server-side document signing, PDF certification, and timestamps |
 
 ---
 
 ### 📦 Project Deep-Dives
 
-#### 1. 🌟 [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
+#### 1. 🌟 [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
 - **Overview**: A robust, locally-hosted web application that handles virtually any PDF task without sending data to external third parties.
 - **Form & Signing Features**: Supports filling out interactive PDF forms, adding visual signature stamps, applying digital signatures with `.p12` certificates, redacting sensitive text, and performing OCR.
 - **Deployment**: Docker container (`docker run -p 8080:8080 frooodle/s-pdf:latest`).
 - **Best For**: Internal team portals needing a self-hosted Swiss army knife for PDF editing, form filling, and signing.
 
-#### 2. 🦭 [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
+#### 2. 🦭 [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub_Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
 - **Overview**: The most polished, complete open-source alternative to DocuSign. Offers an AGPL-3.0 licensed web app that deploys in minutes via Docker.
 - **Form & Signing Features**:
   - WYSIWYG PDF form builder with 12 distinct field types (signature, initials, date, file upload, text, checkbox).
@@ -162,7 +162,7 @@ Below are the most prominent open-source repositories for electronic signatures,
   - Storage backends: Local disk, AWS S3, Google Cloud Storage, or Azure Blob.
 - **⚠️ Honest Caveat**: The self-hosted edition generates a local signing certificate by default. Documents will show as valid locally, but will display an "unknown signer" warning in Adobe Reader until a CA-issued certificate is supplied.
 
-#### 3. 🌐 [Documenso](https://github.com/documenso/documenso) [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+#### 3. 🌐 [Documenso](https://github.com/documenso/documenso) [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
 - **Overview**: Built with TypeScript, Next.js, and Prisma, Documenso provides a developer-friendly architecture to replace legacy per-envelope signing vendors.
 - **Form & Signing Features**:
   - Drag-and-drop signature field placement.
@@ -172,12 +172,12 @@ Below are the most prominent open-source repositories for electronic signatures,
   - White-labeling support and webhooks for CRM integration.
 - **⚠️ Honest Caveat**: Like DocuSeal, relies on self-signed certificates out-of-the-box. Requires PostgreSQL setup for production.
 
-#### 4. 🧱 [Formbricks](https://github.com/formbricks/formbricks) [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
+#### 4. 🧱 [Formbricks](https://github.com/formbricks/formbricks) [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
 - **Overview**: Open-source survey and form software enabling granular user qualification, intake forms, and feedback workflows.
 - **Form & Signing Features**: Visual form builder, customizable fields, conditional logic, and embedded widgets for web and mobile apps.
 - **Best For**: User intake forms and qualification workflows prior to document execution.
 
-#### 5. 🔓 [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
+#### 5. 🔓 [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub_Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
 - **Overview**: Free, open-source e-signature platform offering document template creation, cloud drive integration, and guest signer verification.
 - **Form & Signing Features**:
   - Multi-signer routing with sequential ordering.
@@ -186,42 +186,42 @@ Below are the most prominent open-source repositories for electronic signatures,
   - Single-command Docker deployment.
 - **⚠️ Honest Caveat**: Default container setup uses an ephemeral MongoDB instance that resets upon restart; an external MongoDB connection URI must be configured for persistent production storage.
 
-#### 6. 🛠️ [Form.io](https://github.com/formio/formio) [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)
+#### 6. 🛠️ [Form.io](https://github.com/formio/formio) [![GitHub_Stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)
 - **Overview**: Combined drag-and-drop form builder and REST API data engine for enterprise web applications.
 - **Form & Signing Features**: Generates dynamic JSON-driven forms, renders existing PDF forms for web completion, and manages submissions securely.
 - **Best For**: Developers building custom portals requiring complex multi-page forms with PDF generation.
 
-#### 7. 🤖 [CommonForms](https://github.com/jbarrow/commonforms) [![GitHub stars](https://img.shields.io/github/stars/jbarrow/commonforms?style=social&color=white)](https://github.com/jbarrow/commonforms/stargazers)
+#### 7. 🤖 [CommonForms](https://github.com/jbarrow/commonforms) [![GitHub_Stars](https://img.shields.io/github/stars/jbarrow/commonforms?style=social&color=white)](https://github.com/jbarrow/commonforms/stargazers)
 - **Overview**: Open-source machine learning models specifically designed to solve the document understanding challenge: locating where fields should be in flat PDFs.
 - **Features**: Identifies bounding boxes for text inputs, check boxes, and signature blocks automatically.
 - **Best For**: Engineers building AI-assisted document ingestion pipelines.
 
-#### 8. 🐍 [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) [![GitHub stars](https://img.shields.io/github/stars/chinapandaman/PyPDFForm?style=social&color=white)](https://github.com/chinapandaman/PyPDFForm/stargazers)
+#### 8. 🐍 [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) [![GitHub_Stars](https://img.shields.io/github/stars/chinapandaman/PyPDFForm?style=social&color=white)](https://github.com/chinapandaman/PyPDFForm/stargazers)
 - **Overview**: Fast, dependency-light Python library and CLI tool built specifically for fillable PDF forms.
 - **Features**: Read field schemas, inject text and image signatures, and flatten AcroForms into static documents.
 - **Best For**: Python backends automating batch contract generation.
 
-#### 9. 🏛️ [Digital Signature Service (DSS)](https://github.com/esig/dss) [![GitHub stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers)
+#### 9. 🏛️ [Digital Signature Service (DSS)](https://github.com/esig/dss) [![GitHub_Stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers)
 - **Overview**: Reference implementation maintained by the European Commission for handling eIDAS-compliant advanced electronic signatures.
 - **Features**: Supports PAdES, CAdES, and XAdES formats, validation of Qualified Certificates, and CRL/OCSP revocation checks.
 - **Best For**: European enterprise and government projects requiring formal legal conformance.
 
-#### 10. 📜 [node-signpdf](https://github.com/vbuch/node-signpdf) [![GitHub stars](https://img.shields.io/github/stars/vbuch/node-signpdf?style=social&color=white)](https://github.com/vbuch/node-signpdf/stargazers)
+#### 10. 📜 [node-signpdf](https://github.com/vbuch/node-signpdf) [![GitHub_Stars](https://img.shields.io/github/stars/vbuch/node-signpdf?style=social&color=white)](https://github.com/vbuch/node-signpdf/stargazers)
 - **Overview**: High-speed Node.js utility for applying digital signatures to PDF documents.
 - **Features**: Injects PKCS#7 detached signatures without altering document layout or visual layers.
 - **Best For**: JavaScript/TypeScript microservices needing low-level cryptographic signing capabilities.
 
-#### 11. ☁️ [LibreSign](https://github.com/LibreSign/libresign) [![GitHub stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers)
+#### 11. ☁️ [LibreSign](https://github.com/LibreSign/libresign) [![GitHub_Stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers)
 - **Overview**: Open-source e-signature platform built directly as a Nextcloud application; recognized as a Digital Public Good.
 - **Features**: Supports SES, AES, and QES workflows with cryptographic hashes and external guest signing links.
 - **⚠️ Honest Caveat**: Requires an operational Nextcloud deployment to function; cannot run as a standalone service.
 
-#### 12. 🔏 [pyHanko](https://github.com/MatthiasValvekens/pyHanko) [![GitHub stars](https://img.shields.io/github/stars/MatthiasValvekens/pyHanko?style=social&color=white)](https://github.com/MatthiasValvekens/pyHanko/stargazers)
+#### 12. 🔏 [pyHanko](https://github.com/MatthiasValvekens/pyHanko) [![GitHub_Stars](https://img.shields.io/github/stars/MatthiasValvekens/pyHanko?style=social&color=white)](https://github.com/MatthiasValvekens/pyHanko/stargazers)
 - **Overview**: Comprehensive Python library and CLI for cryptographically signing, certifying, timestamping, and verifying PDF files.
 - **Features**: Implements PAdES baseline signatures, RFC 3161 timestamps, and integrates with hardware tokens (PKCS#11 HSMs).
 - **Best For**: Security engineers needing cryptographically strict PDF verification.
 
-#### 13. 🛡️ [SignServer CE](https://github.com/Keyfactor/signserver-ce) [![GitHub stars](https://img.shields.io/github/stars/Keyfactor/signserver-ce?style=social&color=white)](https://github.com/Keyfactor/signserver-ce/stargazers)
+#### 13. 🛡️ [SignServer CE](https://github.com/Keyfactor/signserver-ce) [![GitHub_Stars](https://img.shields.io/github/stars/Keyfactor/signserver-ce?style=social&color=white)](https://github.com/Keyfactor/signserver-ce/stargazers)
 - **Overview**: Open-source PKI signing engine built by Keyfactor (creators of EJBCA).
 - **Features**: Centralized server-side signing of documents, PDFs, code, and timestamps using hardware or software keys.
 - **Best For**: Centralized enterprise PKI environments requiring audited digital signing keys.
@@ -268,7 +268,7 @@ We welcome additions, updates, and architectural tips from the community!
    - Platform name & official URL
    - Whether it is commercial SaaS or open-source
    - Specific pricing tiers and explicit free trial / free tier terms (no generic placeholders)
-   - Accurate license and star count badge (linked to stargazers)
+   - Accurate license and Stars_Count badge (linked to stargazers)
 4. **Submit a Pull Request** with a concise description of your changes.
 
 ---
